@@ -1,0 +1,457 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"mytodo-ngclient"
+			],
+			[
+				"todosInStor",
+				"todosInStore2 (?)  [E]"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"exp",
+				"expires"
+			],
+			[
+				"ng-key",
+				"ng-keypress	AngularJS"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"updat",
+				"updatedExisting"
+			],
+			[
+				"tod",
+				"todos     (?) [C]"
+			],
+			[
+				"u",
+				"urlBase   (str) [C]"
+			],
+			[
+				"$r",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"re",
+				"reporter"
+			],
+			[
+				"mo",
+				"mongojs (fn)  [S]"
+			],
+			[
+				"thin",
+				"ThingsResource"
+			],
+			[
+				"e",
+				"encode"
+			],
+			[
+				"utf",
+				"utf-8"
+			],
+			[
+				"curre",
+				"currentHour (num) [E]"
+			],
+			[
+				"cur",
+				"currentPostId (obj)  [C]"
+			],
+			[
+				"fu",
+				"future          (obj) [E]"
+			],
+			[
+				"set",
+				"setTimeout  (fn) [E]"
+			],
+			[
+				"Fu",
+				"Future     (obj) [E]"
+			],
+			[
+				"posts",
+				"postWithSameLink"
+			],
+			[
+				"post",
+				"postAttributes       (obj) [E]"
+			],
+			[
+				"find",
+				"findOne (?) [E]"
+			],
+			[
+				"pos",
+				"postPage"
+			],
+			[
+				"g",
+				"go (?) [C]"
+			],
+			[
+				"Rou",
+				"Router          (fn) [C]"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jim/projects/angular/ang-news",
+		"/Users/jim/projects/angular/ang-news/bower_components"
+	],
+	"file_history":
+	[
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/app/scripts/controllers/main.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/app/scripts/app.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/app/scripts/controllers/TodoFactory.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/bower.json",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/.jshintrc",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/app/scripts/factories/TodoFactory.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/app/index.html",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/node_modules/grunt/node_modules/findup-sync/Gruntfile.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/app/views/main.html",
+		"/Users/jim/projects/angular/bloop/gulp.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/Gruntfile.js",
+		"/Users/jim/.zshrc",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/app/scripts/controllers/about.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-api/package.json",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-api/server.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-api/routes/index.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-api/routes/users.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-api/routes/auth.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-api/routes/todos.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/app/scripts/factories/todos.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/dist/index.html",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/dist/scripts/scripts.016a288c.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/test/spec/controllers/about.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-ngclient/test/spec/controllers/main.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-api/gulpfile.js",
+		"/Users/jim/projects/yeoman/mytodo/mytodo-api/.jshintrc",
+		"/Users/jim/projects/mean/meanTodoApp/server/routes/index.js",
+		"/Users/jim/projects/mean/meanTodoApp/client/js/app.js",
+		"/Users/jim/projects/mean/meanTodoApp/client/css/styles.css",
+		"/Users/jim/projects/mean/meanTodoApp/client/partials/todo.html",
+		"/Users/jim/projects/mean/meanTodoApp/client/js/controllers.js",
+		"/Users/jim/projects/mean/meanTodoApp/client/js/factory.js",
+		"/Users/jim/projects/mean/meanTodoApp/server/app.js",
+		"/Users/jim/projects/mean/meanTodoApp/gulpfile.js",
+		"/Users/jim/projects/mean/meanTodoApp/server/views/index.html",
+		"/Users/jim/projects/mean/node-authentication/package.json",
+		"/Users/jim/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jim/projects/mean/meanTodoApp/.bowerrc",
+		"/Users/jim/projects/mean/meanTodoApp/bower.json",
+		"/Users/jim/projects/falcon/things.py",
+		"/Users/jim/projects/loopback/loopback-getting-started/server/middleware.json",
+		"/Users/jim/projects/loopback/loopback-getting-started/server/datasources.json",
+		"/Users/jim/projects/loopback/loopback-getting-started/server/model-config.json",
+		"/Users/jim/projects/loopback/loopback-getting-started/server/config.json",
+		"/Users/jim/bin/batcharge.py",
+		"/Users/jim/projects/loopback/loopback-getting-started-intermediate/package.json",
+		"/Users/jim/projects/loopback/loopback-getting-started/package.json",
+		"/Users/jim/projects/loopback/loopback-getting-started-intermediate/server/server.js",
+		"/Users/jim/projects/loopback/loopback-getting-started/server/server.js",
+		"/Users/jim/projects/loopback/loopback-getting-started-intermediate/server/config.json",
+		"/Users/jim/projects/loopback/loopback-getting-started/server/boot/create-sample-models.js",
+		"/Users/jim/projects/loopback/loopback-getting-started/common/models/reviewer.json",
+		"/Users/jim/projects/loopback/loopback-getting-started/common/models/coffee-shop.json",
+		"/Users/jim/projects/loopback/loopback-getting-started/common/models/review.json",
+		"/Users/jim/projects/loopback/loopback-getting-started/common/models/review.js",
+		"/Users/jim/projects/loopback/loopback-getting-started/client/client/index.html",
+		"/usr/local/etc/mongod.conf",
+		"/Users/jim/projects/loopback/loopback-getting-started/common/models/coffee-shop.js",
+		"/Users/jim/projects/loopback/loopback-getting-started/server/boot/routes.js",
+		"/Users/jim/projects/loopback/loopback-getting-started/client/index.html",
+		"/Users/jim/projects/meteor/microscope/lib/permissions.js",
+		"/Users/jim/projects/meteor/microscope/client/views/posts/post_item.js",
+		"/Users/jim/projects/meteor/microscope/client/views/posts/post_item.html",
+		"/Users/jim/projects/meteor/microscope/client/views/application/layout.html",
+		"/Users/jim/projects/meteor/microscope/client/helpers/errors.js",
+		"/Users/jim/projects/meteor/microscope/client/views/posts/post_edit.js",
+		"/Users/jim/projects/meteor/microscope/client/views/posts/post_edit.html",
+		"/Users/jim/projects/meteor/microscope/lib/router.js",
+		"/Users/jim/projects/meteor/microscope/collections/posts.js",
+		"/Users/jim/projects/meteor/microscope/client/views/posts/post_submit.js",
+		"/Users/jim/projects/meteor/microscope/client/views/posts/posts_list.js",
+		"/Users/jim/projects/meteor/microscope/client/views/posts/post_submit.html",
+		"/Users/jim/config",
+		"/Users/jim/.ssh/config",
+		"/Users/jim/.ssh/id_rsa.pub",
+		"/private/etc/hosts",
+		"/Users/jim/doubleend.zsh-theme",
+		"/Users/jim/Downloads/batcharge.py",
+		"/Users/jim/Downloads/Solarized Light xterm-256color.terminal",
+		"/Users/jim/Downloads/Solarized Dark xterm-256color.terminal"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"serve",
+			"serce",
+			"//",
+			"mytodoApp",
+			"app",
+			"express",
+			"path",
+			"mongo",
+			"express",
+			"32",
+			"bash",
+			"reviewer",
+			"review",
+			"ownsD",
+			"alert",
+			"Posts",
+			"PROMPT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mytodo-ngclient"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ang-news.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"frunt",
+				"mytodo-ngclient/node_modules/grunt/node_modules/findup-sync/Gruntfile.js"
+			],
+			[
+				"bower",
+				"mytodo-ngclient/bower.json"
+			],
+			[
+				"jshintr",
+				"mytodo-ngclient/.jshintrc"
+			],
+			[
+				"gulp",
+				"mytodo-api/gulpfile.js"
+			],
+			[
+				"tod",
+				"client/partials/todo.html"
+			],
+			[
+				"app",
+				"server/app.js"
+			],
+			[
+				"ind",
+				"server/views/index.html"
+			],
+			[
+				"inde",
+				"server/views/index.html"
+			],
+			[
+				"model",
+				"server/model-config.json"
+			],
+			[
+				"layou",
+				"client/views/application/layout.html"
+			],
+			[
+				"post_it",
+				"client/views/posts/post_item.js"
+			],
+			[
+				"poist",
+				"client/views/posts/post_item.html"
+			],
+			[
+				"router",
+				"lib/router.js"
+			],
+			[
+				"post_",
+				"client/views/posts/post_submit.js"
+			],
+			[
+				"opost",
+				"client/views/posts/post_submit.js"
+			],
+			[
+				"post",
+				"client/views/posts/post_submit.js"
+			],
+			[
+				"pos",
+				"client/views/posts/post_submit.js"
+			],
+			[
+				"post_s",
+				"client/views/posts/post_submit.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
