@@ -1,8 +1,23 @@
 /* global app:false */
+/* global Firebase:false */
 
-'use strict';
+app.factory('Post', function($firebaseArray, FIREBASE_URL) {
+	'use strict';
+	var ref = new Firebase(FIREBASE_URL + 'posts');
+	var posts = $firebaseArray(ref);
 
+	var Post = {
+		all: posts,
+		create: function(post) {
+			return posts.$add(post);
+		},
+		get: function(postId) {
+			return posts[posts.$indexFor(postId)];
+		},
+		delete: function(post) {
+			return posts.$remove(post);
+		}
+	};
 
-app.factory('Post', function($resource) {
-	return $resource('https://brilliant-inferno-3945.firebaseio.com/posts/:id.json', { id: '@_id' });
+	return Post;
 });
