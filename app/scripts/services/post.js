@@ -1,6 +1,7 @@
 /* global app:false */
 /* global Firebase:false */
 
+
 app.factory('Post', function($firebaseArray, FIREBASE_URL) {
 	'use strict';
 	var ref = new Firebase(FIREBASE_URL + 'posts');

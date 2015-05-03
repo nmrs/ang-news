@@ -6,13 +6,6 @@ app.controller('PostsCtrl', ['$scope', '$log', '$location', 'Post', function($sc
 	$scope.posts = Post.all;
 	$scope.post = {url: 'http://', title: ''};
 
-	$scope.submitPost = function() {
-		Post.create($scope.post).then(function(ref) {
-			$log.debug(ref)
-			$location.path('/posts/'+ ref.key());
-		});
-	};
-
 	$scope.deletePost = function(post) {
 		Post.delete(post);
 	};
